@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Vanipedia</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_testament_list">TestamentListActivity</string>
+    <string name="title_activity_layout">layoutActivity</string>
+    <string name="title_activity_notification_list">Notifications</string>
+    <string name="title_activity_notification_detail">Notification Detail</string>
+
+    <!-- App Strings-->
+    <string name="InitialDataDownload">Problem downloading data, Please try again later</string>
+    <string name="ProblemFetchingNotifications">Problem fetching notifications, Please try again later</string>
+    <string name="AppUpdateWarning">Problem checking for app updates, Please try again later</string>
+    <string name="ErrorOccurred">An error occurred</string>
+    <string name="ConnectToInternet">Please connect to internet</string>
+    <string name="PausePlayCurrentLecture">Please stop/pause currently playing lecture</string>
+    <string name="RequestAlreadyInQueue">A request already in queue, Please wait for sometime</string>
+    <string name="ErrorFetchingLectureCounter">An error occurred while fetching lecture counters, Please try again later</string>
+    <string name="ProblemPlayingLecture">Problem playing Lecture</string>
+    <string name="PlayLectureFirst">Please play a lecture first</string>
+    <string name="ProblemLikingLecture">Problem in liking this lecture, Please try again later</string>
+    <string name="ProblemRatingLecture">Problem in rating this lecture, Please try again later</string>
+    <string name="CommentPostedSuccessfully">Your comments has been posted successfully</string>
+    <string name="ProblemCommentingLecture">Problem in commenting this lecture, Please try again later</string>
+    <string name="AtleastOnLocationOnDial">You should have at least one location on dial</string>
+    <string name="MaxLocationOnDial">You can set max 8 locations on dial, Please remove at least one to add this on dial</string>
+    <string name="ProblemDownloaingLecture">Problem downloading Lecture</string>
+    <string name="SelectAnyLocation">Please select any location first</string>
+    <string name="SelectAnyLecture">Please select any lecture first</string>
+    <string name="WaitBeforePlaying">Please wait for sometime to start playing lecture</string>
+    <string name="ProblemFacebookLogin">Problem login with facebook, Please try again later.</string>
+    <string name="ProblemFetchingFacebookInformation">Problem fetching facebook profile, Please try again later.</string>
+    <string name="facebook_app_id">178179272883313</string>
+</resources>

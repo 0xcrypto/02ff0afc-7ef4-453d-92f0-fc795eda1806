@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/color/com_facebook_button_text_color.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/color/com_facebook_button_text_color.xml"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/color/abc_tint_edittext.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/color/abc_tint_spinner.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/color/abc_tint_default.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/color/design_error.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/color/design_error.xml"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/color/design_tint_password_toggle.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/color/abc_tint_seek_thumb.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/color/com_facebook_send_button_text_color.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/color/com_facebook_send_button_text_color.xml"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/color/abc_tint_btn_checkable.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/color/abc_hint_foreground_material_light.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/color/abc_btn_colored_text_material.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/color/abc_tint_switch_track.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/color/abc_tint_switch_track.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp">
+    <EditText
+        android:id="@+id/message"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:maxLines="100"
+        android:lines="5"
+        android:gravity="top"/>
+    <Button
+        android:id="@+id/commentSubmit"
+        android:layout_width="200px"
+        android:layout_height="wrap_content"
+        android:text="Submit"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_below="@+id/message"
+        />
+</RelativeLayout>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/menu/activity_player_drawer.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/src/main/res/menu/activity_player_drawer.xml"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/menu/player.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/src/main/res/menu/player.xml"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/menu/main_menu.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/src/main/res/menu/main_menu.xml"
+    }
+]

@@ -1,0 +1,1090 @@
+[
+    {
+        "outputFile": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/values-fi/values-fi.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 107,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 107,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 213,
+                    "endColumn": 107,
+                    "endOffset": 316
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 107,
+                        "endOffset": 266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 321,
+                    "endColumn": 122,
+                    "endOffset": 439
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 271,
+                        "endColumn": 122,
+                        "endOffset": 389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 444,
+                    "endColumn": 99,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 394,
+                        "endColumn": 99,
+                        "endOffset": 489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endColumn": 100,
+                    "endOffset": 640
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 494,
+                        "endColumn": 100,
+                        "endOffset": 590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 645,
+                    "endColumn": 85,
+                    "endOffset": 726
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 595,
+                        "endColumn": 85,
+                        "endOffset": 676
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 731,
+                    "endColumn": 104,
+                    "endOffset": 831
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 681,
+                        "endColumn": 104,
+                        "endOffset": 781
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 836,
+                    "endColumn": 117,
+                    "endOffset": 949
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 786,
+                        "endColumn": 117,
+                        "endOffset": 899
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 954,
+                    "endColumn": 86,
+                    "endOffset": 1036
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 904,
+                        "endColumn": 86,
+                        "endOffset": 986
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1041,
+                    "endColumn": 81,
+                    "endOffset": 1118
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 991,
+                        "endColumn": 81,
+                        "endOffset": 1068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1123,
+                    "endColumn": 79,
+                    "endOffset": 1198
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1073,
+                        "endColumn": 79,
+                        "endOffset": 1148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1203,
+                    "endColumn": 106,
+                    "endOffset": 1305
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1153,
+                        "endColumn": 106,
+                        "endOffset": 1255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1310,
+                    "endColumn": 102,
+                    "endOffset": 1408
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1260,
+                        "endColumn": 102,
+                        "endOffset": 1358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1413,
+                    "endColumn": 96,
+                    "endOffset": 1505
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1363,
+                        "endColumn": 96,
+                        "endOffset": 1455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1510,
+                    "endColumn": 105,
+                    "endOffset": 1611
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1460,
+                        "endColumn": 105,
+                        "endOffset": 1561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1616,
+                    "endColumn": 98,
+                    "endOffset": 1710
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1566,
+                        "endColumn": 98,
+                        "endOffset": 1660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1715,
+                    "endColumn": 103,
+                    "endOffset": 1814
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1665,
+                        "endColumn": 103,
+                        "endOffset": 1764
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1819,
+                    "endColumn": 118,
+                    "endOffset": 1933
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1769,
+                        "endColumn": 118,
+                        "endOffset": 1883
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1938,
+                    "endColumn": 98,
+                    "endOffset": 2032
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1888,
+                        "endColumn": 98,
+                        "endOffset": 1982
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2037,
+                    "endColumn": 175,
+                    "endOffset": 2208
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 175,
+                        "endOffset": 226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2213,
+                    "endColumn": 125,
+                    "endOffset": 2334
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 231,
+                        "endColumn": 125,
+                        "endOffset": 352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2339,
+                    "endColumn": 131,
+                    "endOffset": 2466
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 357,
+                        "endColumn": 131,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2471,
+                    "endColumn": 94,
+                    "endOffset": 2561
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 489,
+                        "endColumn": 94,
+                        "endOffset": 579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2566,
+                    "endColumn": 66,
+                    "endOffset": 2628
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 584,
+                        "endColumn": 66,
+                        "endOffset": 646
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2633,
+                    "endColumn": 69,
+                    "endOffset": 2698
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 69,
+                        "endOffset": 716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2703,
+                    "endColumn": 58,
+                    "endOffset": 2757
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 721,
+                        "endColumn": 58,
+                        "endOffset": 775
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2762,
+                    "endColumn": 72,
+                    "endOffset": 2830
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 780,
+                        "endColumn": 72,
+                        "endOffset": 848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2835,
+                    "endColumn": 80,
+                    "endOffset": 2911
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 853,
+                        "endColumn": 80,
+                        "endOffset": 929
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2916,
+                    "endColumn": 103,
+                    "endOffset": 3015
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 934,
+                        "endColumn": 103,
+                        "endOffset": 1033
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3020,
+                    "endColumn": 79,
+                    "endOffset": 3095
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1038,
+                        "endColumn": 79,
+                        "endOffset": 1113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3100,
+                    "endColumn": 79,
+                    "endOffset": 3175
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1118,
+                        "endColumn": 79,
+                        "endOffset": 1193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3180,
+                    "endColumn": 95,
+                    "endOffset": 3271
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1198,
+                        "endColumn": 95,
+                        "endOffset": 1289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3276,
+                    "endColumn": 111,
+                    "endOffset": 3383
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1294,
+                        "endColumn": 111,
+                        "endOffset": 1401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3388,
+                    "endColumn": 64,
+                    "endOffset": 3448
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1406,
+                        "endColumn": 64,
+                        "endOffset": 1466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3453,
+                    "endColumn": 62,
+                    "endOffset": 3511
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1471,
+                        "endColumn": 62,
+                        "endOffset": 1529
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3516,
+                    "endColumn": 124,
+                    "endOffset": 3636
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1534,
+                        "endColumn": 124,
+                        "endOffset": 1654
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3641,
+                    "endColumn": 112,
+                    "endOffset": 3749
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 245,
+                        "endColumn": 108,
+                        "endOffset": 353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3754,
+                    "endColumn": 184,
+                    "endOffset": 3934
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 354,
+                        "endColumn": 184,
+                        "endOffset": 538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3939,
+                    "endColumn": 132,
+                    "endOffset": 4067
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 539,
+                        "endColumn": 128,
+                        "endOffset": 667
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4072,
+                    "endColumn": 107,
+                    "endOffset": 4175
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 668,
+                        "endColumn": 103,
+                        "endOffset": 771
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4180,
+                    "endColumn": 201,
+                    "endOffset": 4377
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 772,
+                        "endColumn": 201,
+                        "endOffset": 973
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4382,
+                    "endColumn": 127,
+                    "endOffset": 4505
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 974,
+                        "endColumn": 123,
+                        "endOffset": 1097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4510,
+                    "endColumn": 145,
+                    "endOffset": 4651
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 1098,
+                        "endColumn": 141,
+                        "endOffset": 1239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4656,
+                    "endColumn": 135,
+                    "endOffset": 4787
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 1240,
+                        "endColumn": 131,
+                        "endOffset": 1371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4792,
+                    "endColumn": 208,
+                    "endOffset": 4996
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/15.0.1/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 247,
+                        "endColumn": 208,
+                        "endOffset": 455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 5001,
+                    "endColumn": 199,
+                    "endOffset": 5196
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 1372,
+                        "endColumn": 199,
+                        "endOffset": 1571
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 5201,
+                    "endColumn": 107,
+                    "endOffset": 5304
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1572,
+                        "endColumn": 103,
+                        "endOffset": 1675
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 5309,
+                    "endColumn": 179,
+                    "endOffset": 5484
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 1676,
+                        "endColumn": 179,
+                        "endOffset": 1855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 5489,
+                    "endColumn": 127,
+                    "endOffset": 5612
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 1856,
+                        "endColumn": 123,
+                        "endOffset": 1979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 5617,
+                    "endColumn": 206,
+                    "endOffset": 5819
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 1980,
+                        "endColumn": 206,
+                        "endOffset": 2186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 5824,
+                    "endColumn": 168,
+                    "endOffset": 5988
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 2187,
+                        "endColumn": 164,
+                        "endOffset": 2351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 5993,
+                    "endColumn": 95,
+                    "endOffset": 6084
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 2352,
+                        "endColumn": 91,
+                        "endOffset": 2443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 6089,
+                    "endColumn": 99,
+                    "endOffset": 6184
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 2444,
+                        "endColumn": 95,
+                        "endOffset": 2539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 6189,
+                    "endColumn": 111,
+                    "endOffset": 6296
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/values-fi/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 0,
+                        "startOffset": 2540,
+                        "endColumn": 107,
+                        "endOffset": 2647
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 6301,
+                    "endColumn": 61,
+                    "endOffset": 6358
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1659,
+                        "endColumn": 61,
+                        "endOffset": 1716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 6363,
+                    "endColumn": 79,
+                    "endOffset": 6438
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1987,
+                        "endColumn": 79,
+                        "endOffset": 2062
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 6443,
+                    "endColumn": 100,
+                    "endOffset": 6539
+                },
+                "from": {
+                    "file": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-fi/values-fi.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2067,
+                        "endColumn": 100,
+                        "endOffset": 2163
+                    }
+                }
+            }
+        ]
+    }
+]
