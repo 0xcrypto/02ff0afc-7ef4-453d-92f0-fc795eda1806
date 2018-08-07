@@ -12,10 +12,6 @@
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
-        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/drawable/common_google_signin_btn_icon_light_normal.xml"
-    },
-    {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_ratingbar_indicator_material.xml"
     },
@@ -76,10 +72,6 @@
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/drawable/notification_tile_bg.xml"
     },
     {
-        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
-        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/drawable/common_google_signin_btn_icon_light_focused.xml"
-    },
-    {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
@@ -90,6 +82,10 @@
     {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/sigin.png",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/src/main/res/drawable/sigin.png"
     },
     {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/ic_pause.png",
@@ -114,10 +110,6 @@
     {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/screen_5.png",
         "source": "/Ankit/Projects/Android/Vanipedia/app/src/main/res/drawable/screen_5.png"
-    },
-    {
-        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_disabled.xml",
-        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/drawable/common_google_signin_btn_icon_disabled.xml"
     },
     {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/messenger_button_white_bg_selector.xml",
@@ -148,12 +140,12 @@
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/round.xml",
-        "source": "/Ankit/Projects/Android/Vanipedia/app/src/main/res/drawable/round.xml"
-    },
-    {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/round.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/src/main/res/drawable/round.xml"
     },
     {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/barrelcoders_logo.png",
@@ -166,10 +158,6 @@
     {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/screen_7.png",
         "source": "/Ankit/Projects/Android/Vanipedia/app/src/main/res/drawable/screen_7.png"
-    },
-    {
-        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_disabled.xml",
-        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/drawable/common_google_signin_btn_text_disabled.xml"
     },
     {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/tooltip_frame_dark.xml",
@@ -192,28 +180,12 @@
         "source": "/Ankit/Projects/Android/Vanipedia/app/src/main/res/drawable/ic_app_icon_white.png"
     },
     {
-        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
-        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/drawable/common_google_signin_btn_text_dark.xml"
-    },
-    {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/screen_dot_5.jpg",
         "source": "/Ankit/Projects/Android/Vanipedia/app/src/main/res/drawable/screen_dot_5.jpg"
     },
     {
-        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_normal.xml",
-        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/drawable/common_google_signin_btn_text_light_normal.xml"
-    },
-    {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/screen_dot_8.jpg",
         "source": "/Ankit/Projects/Android/Vanipedia/app/src/main/res/drawable/screen_dot_8.jpg"
-    },
-    {
-        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
-        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/drawable/common_google_signin_btn_text_dark_focused.xml"
-    },
-    {
-        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
-        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/drawable/common_google_signin_btn_text_light_focused.xml"
     },
     {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/ic_play.png",
@@ -256,10 +228,6 @@
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
-        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
-    },
-    {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_text_cursor_material.xml"
     },
@@ -270,10 +238,6 @@
     {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/ic_next.png",
         "source": "/Ankit/Projects/Android/Vanipedia/app/src/main/res/drawable/ic_next.png"
-    },
-    {
-        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
-        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/drawable/common_google_signin_btn_icon_dark.xml"
     },
     {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/side_nav_bar.xml",
@@ -340,10 +304,6 @@
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/drawable/com_facebook_button_send_background.xml"
     },
     {
-        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
-        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/drawable/common_google_signin_btn_icon_light.xml"
-    },
-    {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/drawable/notification_icon_background.xml"
     },
@@ -354,6 +314,14 @@
     {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/signup.png",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/src/main/res/drawable/signup.png"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/roundedbutton.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/src/main/res/drawable/roundedbutton.xml"
     },
     {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/screen_dot_4.jpg",
@@ -386,14 +354,6 @@
     {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/tooltip_frame_light.xml",
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/tooltip_frame_light.xml"
-    },
-    {
-        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
-        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/drawable/common_google_signin_btn_text_dark_normal.xml"
-    },
-    {
-        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
-        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
     },
     {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/ic_app_icon.png",
@@ -434,10 +394,6 @@
     {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_ic_search_api_material.xml"
-    },
-    {
-        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
-        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/drawable/common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",

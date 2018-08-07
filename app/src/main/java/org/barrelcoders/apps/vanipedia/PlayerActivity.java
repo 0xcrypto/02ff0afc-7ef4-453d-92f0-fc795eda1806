@@ -37,8 +37,6 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.WindowManager;
-import android.view.animation.Animation;
-import android.view.animation.AnimationUtils;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
@@ -77,13 +75,13 @@ public class PlayerActivity extends AppCompatActivity implements NavigationView.
     public String LoggedInUserId = null;
     private Dialog progressDialog = null;
     private ArrayList<Location> _locationsOnDial;
+    public static final String PlayerLocationsPreferenceKey = "player.locations";
     public static final String VanipediaPreferences = "vanipedia.preferences";
     public static final String IsLoggedInPreferenceKey = "isLoggedIn";
     public static final String UserIdPreferenceKey = "LoggedInUserID";
-    public static final String FacebookNamePreferenceKey = "facebook.profile.name";
-    public static final String FacebookEmailPreferenceKey = "facebook.profile.email";
-    public static final String FacebookPicturePreferenceKey = "facebook.profile.picture";
-    public static final String PlayerLocationsPreferenceKey = "player.locations";
+    public static final String NamePreferenceKey = "profile.name";
+    public static final String EmailPreferenceKey = "profile.email";
+    public static final String PicturePreferenceKey = "profile.picture";
     public static ArrayList<Location> PLAYER_LOCATIONS;
     public static int TOTAL_LOCATIONS = 0;
     SharedPreferences sharedpreferences;
@@ -261,7 +259,7 @@ public class PlayerActivity extends AppCompatActivity implements NavigationView.
         showLocationsOnDial();
         initializeLocationColors();
         initializeLocationsOnClick();
-        loadFacebookProfile();
+        loadProfile();
         initializeButtonsClickHandlers();
 
         if (matrix == null) {
@@ -495,24 +493,24 @@ public class PlayerActivity extends AppCompatActivity implements NavigationView.
             return true;
         }
     }
-    private void loadFacebookProfile(){
+    private void loadProfile(){
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         View header = navigationView.getHeaderView(0);
 
-        String name = GetSharedPreference(FacebookNamePreferenceKey);
+        String name = GetSharedPreference(NamePreferenceKey);
         if(name != null){
             TextView txtName = (TextView) header.findViewById(R.id.facebookProfileName);
             txtName.setTypeface(txtName.getTypeface(), Typeface.BOLD_ITALIC);
             txtName.setText("Welcome "+name);
         }
-        String profilePictureUrl = GetSharedPreference(FacebookPicturePreferenceKey);
+        String profilePictureUrl = GetSharedPreference(PicturePreferenceKey);
         if(profilePictureUrl != null){
             try {
                 URL url = new URL(profilePictureUrl);
                 ImageView imageView = (ImageView) header.findViewById(R.id.facebookProfileImage);
                 new ImageDownloadTask(imageView).execute(url);
             } catch(IOException e) {
-                Toast.makeText(context, R.string.ProblemFetchingFacebookInformation, Toast.LENGTH_LONG).show();
+                Toast.makeText(context, R.string.ProblemFetchingFacebookPicture, Toast.LENGTH_LONG).show();
             }
         }
     }
@@ -1158,10 +1156,10 @@ public class PlayerActivity extends AppCompatActivity implements NavigationView.
         if (id == R.id.action_logout) {
             LoginManager.getInstance().logOut();
             RemoveSharedPreference(IsLoggedInPreferenceKey);
-            RemoveSharedPreference(FacebookNamePreferenceKey);
-            RemoveSharedPreference(FacebookEmailPreferenceKey);
-            RemoveSharedPreference(FacebookPicturePreferenceKey);
-            Intent myIntent = new Intent(this, MainActivity.class);
+            RemoveSharedPreference(NamePreferenceKey);
+            RemoveSharedPreference(EmailPreferenceKey);
+            RemoveSharedPreference(PicturePreferenceKey);
+            Intent myIntent = new Intent(this, SignInActivity.class);
             startActivityForResult(myIntent, 0);
         }
 
@@ -1458,7 +1456,7 @@ public class PlayerActivity extends AppCompatActivity implements NavigationView.
             } catch (IOException e) {
                 runOnUiThread(new Runnable() {
                     public void run() {
-                        Toast.makeText(context, R.string.ProblemFetchingFacebookInformation, Toast.LENGTH_LONG).show();
+                        Toast.makeText(context, R.string.ProblemFetchingFacebookPicture, Toast.LENGTH_LONG).show();
                     }
                 });
             }

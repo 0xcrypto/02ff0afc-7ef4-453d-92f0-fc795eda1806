@@ -68,10 +68,6 @@
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/drawable-mdpi-v4/googleg_standard_color_18.png",
-        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/drawable-mdpi-v4/googleg_standard_color_18.png"
-    },
-    {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
@@ -94,10 +90,6 @@
     {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
-    },
-    {
-        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/drawable-mdpi-v4/googleg_disabled_color_18.png",
-        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
     },
     {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/drawable-mdpi-v4/com_facebook_button_icon_blue.png",
@@ -144,10 +136,6 @@
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
-        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
-    },
-    {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
@@ -158,10 +146,6 @@
     {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png",
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png"
-    },
-    {
-        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
-        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
@@ -214,14 +198,6 @@
     {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/drawable-mdpi-v4/com_facebook_tooltip_black_topnub.png",
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/drawable-mdpi-v4/com_facebook_tooltip_black_topnub.png"
-    },
-    {
-        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
-        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
-    },
-    {
-        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
-        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_normal.9.png",

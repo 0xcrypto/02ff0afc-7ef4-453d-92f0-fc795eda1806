@@ -24,6 +24,10 @@
         "source": "/Ankit/Projects/Android/Vanipedia/app/src/main/res/layout/rating_dialog.xml"
     },
     {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/layout/activity_forgot_password.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/src/main/res/layout/activity_forgot_password.xml"
+    },
+    {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/layout/abc_action_menu_item_layout.xml"
     },
@@ -56,12 +60,12 @@
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/layout/abc_screen_content_include.xml"
     },
     {
-        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/layout/activity_notification_detail.xml",
-        "source": "/Ankit/Projects/Android/Vanipedia/app/src/main/res/layout/activity_notification_detail.xml"
-    },
-    {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/layout/activity_notification_detail.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/src/main/res/layout/activity_notification_detail.xml"
     },
     {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/layout/tooltip.xml",
@@ -96,12 +100,16 @@
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/layout/abc_screen_simple.xml"
     },
     {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_small.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/layout/abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_small.xml",
-        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/layout/messenger_button_send_white_small.xml"
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/layout/activity_sign_up.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/src/main/res/layout/activity_sign_up.xml"
     },
     {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/layout/com_facebook_smart_device_dialog_fragment.xml",
@@ -224,6 +232,10 @@
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/layout/design_navigation_menu.xml"
     },
     {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/layout/activity_sign_in.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/src/main/res/layout/activity_sign_in.xml"
+    },
+    {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/layout/notification_action.xml"
     },
@@ -272,6 +284,10 @@
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/layout/design_navigation_item.xml"
     },
     {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/layout/activity_splash_screen.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/src/main/res/layout/activity_splash_screen.xml"
+    },
+    {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/layout/abc_dialog_title_material.xml"
     },
@@ -314,10 +330,6 @@
     {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/layout/abc_alert_dialog_title_material.xml"
-    },
-    {
-        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
-        "source": "/Ankit/Projects/Android/Vanipedia/app/src/main/res/layout/activity_main.xml"
     },
     {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_round.xml",

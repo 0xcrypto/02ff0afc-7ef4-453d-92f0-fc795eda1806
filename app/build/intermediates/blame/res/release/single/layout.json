@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/layout/comment_dialog.xml",
-        "source": "/Ankit/Projects/Android/Vanipedia/app/src/main/res/layout/comment_dialog.xml"
-    },
-    {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/layout/messenger_button_send_white_small.xml",
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/layout/comment_dialog.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/src/main/res/layout/comment_dialog.xml"
     },
     {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/layout/abc_search_view.xml",
@@ -28,16 +28,16 @@
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/res/layout/notification_template_media_custom.xml"
     },
     {
-        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/layout/activity_main.xml",
-        "source": "/Ankit/Projects/Android/Vanipedia/app/src/main/res/layout/activity_main.xml"
-    },
-    {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/layout/abc_screen_simple.xml"
     },
     {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/layout/notification_action.xml",
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/layout/activity_splash_screen.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/src/main/res/layout/activity_splash_screen.xml"
     },
     {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
@@ -120,6 +120,10 @@
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/layout/abc_action_mode_bar.xml"
     },
     {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/layout/activity_sign_in.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/src/main/res/layout/activity_sign_in.xml"
+    },
+    {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/layout/design_layout_snackbar_include.xml",
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/layout/design_layout_snackbar_include.xml"
     },
@@ -154,6 +158,10 @@
     {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/layout/activity_sign_up.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/src/main/res/layout/activity_sign_up.xml"
     },
     {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/layout/com_facebook_activity_layout.xml",
@@ -228,12 +236,12 @@
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/layout/abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/layout/com_facebook_smart_device_dialog_fragment.xml",
-        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/layout/com_facebook_smart_device_dialog_fragment.xml"
-    },
-    {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/layout/com_facebook_smart_device_dialog_fragment.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/layout/com_facebook_smart_device_dialog_fragment.xml"
     },
     {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/layout/nav_header_player.xml",
@@ -242,6 +250,10 @@
     {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/layout/design_menu_item_action_area.xml",
         "source": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/layout/activity_forgot_password.xml",
+        "source": "/Ankit/Projects/Android/Vanipedia/app/src/main/res/layout/activity_forgot_password.xml"
     },
     {
         "merged": "/Ankit/Projects/Android/Vanipedia/app/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",

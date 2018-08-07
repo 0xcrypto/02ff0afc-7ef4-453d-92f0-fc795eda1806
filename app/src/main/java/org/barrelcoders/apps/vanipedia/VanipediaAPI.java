@@ -25,10 +25,6 @@ public interface VanipediaAPI {
     Call<String> postRating(@Query("r") String page, @Query("lecture_id") int lecture_id, @Query("rating") String rating,
                             @Query("location") String location, @Query("id") String id);
 
-    //for example: http://www.codeshow.in/vanipedia/index.php?r=User/APICreate&name=Ankit&email=ankit@gmail.com&picture=xxx
-    @POST("vanipedia/index.php")
-    Call<String> register(@Query("r") String page, @Query("name") String name, @Query("email") String email, @Query("picture") String picture);
-
     //for example: http://www.codeshow.in/vanipedia/index.php?r=Visitors/APICrate&location=xxx&id=0
     @POST("vanipedia/index.php")
     Call<String> postVisitor(@Query("r") String page, @Query("location") String location, @Query("id") String id);
@@ -48,5 +44,22 @@ public interface VanipediaAPI {
     //for example: http://www.codeshow.in/vanipedia/index.php?r=Site/Data
     @GET("vanipedia/index.php")
     Call<String> downloadData(@Query("r") String page);
+
+    //for example: http://www.codeshow.in/vanipedia/index.php?r=User/APITinySignIn&email=ankit@gmail.com&password=xxx
+    @GET("vanipedia/index.php")
+    Call<User> tinySignIn(@Query("r") String page, @Query("email") String email, @Query("password") String password);
+
+    //for example: http://www.codeshow.in/vanipedia/index.php?r=User/APITinySignUp&name=Ankit&email=ankit@gmail.com&password=xxx
+    @GET("vanipedia/index.php")
+    Call<User> tinySignUp(@Query("r") String page, @Query("name") String name, @Query("email") String email, @Query("password") String password);
+
+    //for example: http://www.codeshow.in/vanipedia/index.php?r=User/APITinyForgotPassword&email=ankit@gmail.com
+    @GET("vanipedia/index.php")
+    Call<String> tinyForgotPassword(@Query("r") String page, @Query("email") String email);
+
+    //for example: http://www.codeshow.in/vanipedia/index.php?r=User/APITinyFBSignIn&name=Ankit&email=ankit@gmail.com&picture=xxx
+    @GET("vanipedia/index.php")
+    Call<User> tinyFBSignIn(@Query("r") String page, @Query("name") String name, @Query("email") String email, @Query("picture") String picture);
+
 
 }
